@@ -1,0 +1,325 @@
+﻿
+.r1c1
+{ 
+	background-color:#45343D;
+	height:55px;
+	border-bottom: 5px solid #F4CF80;
+ }
+
+.logo
+{
+	border-bottom: 5px solid #F4CF80;
+}
+.slider
+{
+	border-bottom: 5px solid #F4CF80;
+}
+.menu
+{
+	height: 70px;
+	
+}
+.menu1
+{
+	background-color:#45343D;
+}
+.navbar-nav
+{
+	list-style:none;
+	margin:0px;
+}
+
+.welcome
+{
+	background-color: #45343D;
+	border-bottom:7px solid #F4CF80;
+	margin-top:-1px;
+}
+.row4
+{
+	background-color:#F1F0F3;
+}
+.row4 a
+{
+	color:#F4CF80;
+	text-decoration:none;
+}
+.row4 a:hover
+{
+	color: #45343D;
+}
+.row5
+{
+	background-color:#45343D;
+}
+.abtus
+{
+	background-color:#F1F0F3;
+}
+.abtus h1
+{
+	color:#45343D;
+}
+.abtus h3
+{
+	color:#B17E74;
+}
+.abtus p
+{
+	color:#7D7378;
+	font-size:small;
+}
+.abtus a
+{
+	color:#F4CF80;
+	text-decoration:none;
+}
+.abtus a:hover
+{
+	color: #45343D;
+}
+.ourstaf
+{ 
+	background-color: #45343D; 
+}
+.trvlrsr
+{ 
+	background-color:#D6D3D1; 
+}
+.trvlrsr p
+{
+	font-size: small;
+	color:#A0989B;
+}
+.trvlrsr h1
+{
+	color:#45343D;
+}
+.trvlrsr h3
+{
+	color:#B07C72;
+}
+.blg
+{
+	background-color:#F1F0F3;
+}
+.cat h1
+{
+	color:#45343D;
+}
+.cat p
+{
+	color:#7D7378;
+	text-align:left;
+	margin-left:44px;
+}
+.cat a
+{
+	color:#F4CF80;
+	text-decoration:none;
+	margin-left:44px;
+}
+.cat a:hover
+{
+	color:#45343D;
+}
+.lst a
+{
+	color:#6A5C65;
+	font: 13px/1.2em 'Ubuntu', sans-serif;
+	display:inline;
+}
+.lst a:hover
+{
+	color:#B7887F;
+}
+.navbar-default
+{
+	height: 70px;
+	
+	background-color:#B07c72;
+	border-top: 7px solid #F4CF80;
+}
+.cont
+{
+	background-color:#F1F0F3;
+}
+.info p
+{
+	font-size:small;
+}
+.info h2,h4
+{
+	color:#45343D;
+}
+.info p, h5
+{
+	color:#7C7277;
+}
+.search_bus
+{ 
+	background-color:#F1F0F3;
+}
+.labl
+{
+	font-size:medium;
+	font-style:oblique;
+	
+}
+.fom1
+{  
+	background-color: #B07C72;
+	width:80%;
+	
+}
+.btun
+{
+	margin-top:38px;
+}
+.fom2
+{
+background-color:#F1F0F3;
+  width:60%;
+  height:40%;
+}
+.fom3
+{
+	background-color:#45343D;
+ width:60%;
+ height:5%;
+}
+.conmenu
+{
+	padding-top:9px;
+}
+.navbar-nav > li 
+{
+	display:inline-block;
+}
+.navbar-nav > li:hover
+{
+	background-color:White;
+	color:#B07c72;
+}
+.navbar-default .navbar-nav > li > a 
+{
+	text-decoration:none;
+	color:White;
+	display:block;
+	text-align:center;
+	font-family:sans-one;
+	font-size:medium;
+	font-weight:bolder;
+	width:250px;
+	letter-spacing:0px;
+	
+	
+}
+.welcomerow h1
+{
+	color:White;
+	font-family:Sans-one;
+	
+	font-weight:900;
+}
+.rowh2
+{
+	color:White;
+	font-family:Sans-one;
+}
+.rowpara p
+{
+	color:White;
+	font-family:Sans-one;
+	font-style:italic;
+}
+.rowmore h4, p
+{
+	font-family: Sans-one;
+}
+.row5 h1,p,h3
+{
+	font-family:Sans-one;
+	color:White;
+}
+.row4 p
+{
+	color:#45343d;
+}
+.masternav
+{
+	background-color:#45343d;
+}
+.srchbs label
+{
+	color:#45343d;
+	font-family:Sans-one;
+}
+.srchbshead h2
+{
+	font-family:Sans-one;
+	color:#45343d;
+}
+.rowabt
+{
+	font-family:Sans-one;
+}
+.rowbloimg
+{
+	font-family:Sans-one;
+}
+.ourstaf h1
+{
+	font-family:Sans-one;
+	color:White;
+}
+.trvlrsr h1,h3
+{
+	font-family:Sans-one;
+}
+.blg h1
+{
+	font-family:Sans-one;
+}
+.cat span
+{
+	font-family:Sans-one;
+}
+.usermasternav
+{
+	background-color:#45343d;
+}
+.fom1 h1,h3
+{
+	font-family:Sans-one;
+	color:#45343d;
+}
+.btncncl
+{
+	margin-left:62%;
+}
+.cont h1,h2,h4,p,h5
+{
+	font-family:Sans-one;
+}
+.heading p
+{
+    font-family:Sans-one;
+    font-style:italic;
+    height:40px;
+    width:200px;
+    
+}
+.fom4
+{
+    
+	background-color: #B07C72;
+	width:50%;
+	border:3px solid black;
+	
+}
+
+
+
+
+
